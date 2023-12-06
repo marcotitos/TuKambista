@@ -11,7 +11,7 @@ Testing Tipo de Cambio
 <body>
 
   <!-- Header -->
-  <header>
+ <header>
     <h1>TuKambista</h1>
     <nav>
       <ul>
